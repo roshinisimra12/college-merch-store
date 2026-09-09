@@ -1,0 +1,64 @@
+# ── Java / Maven ─────────────────────────────────────────
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+
+# Maven wrapper
+.mvn/
+
+# ── Spring Boot ───────────────────────────────────────────
+spring.log
+
+# ── IDE ───────────────────────────────────────────────────
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse / STS
+.classpath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# NetBeans
+nbproject/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# ── OS ────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ── Logs ──────────────────────────────────────────────────
+*.log
+logs/
+
+# ── Environment / Secrets ─────────────────────────────────
+.env
+*.env.local
+*.env.production
+# Do NOT commit real passwords in application.properties
+# application-prod.properties
+
+# ── Node (if any frontend tooling added later) ────────────
+node_modules/
+npm-debug.log*
+yarn-error.log*
