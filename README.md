@@ -166,4 +166,4 @@ After running schema.sql, 5 students, 5 products, 5 orders, and 5 payments are l
 
 ## Team
 
-**AIHT CSBS TEAM-G09** · Academic Year 2024–25 · Arulmigu Institute of Technology and Humanities
+**AIHT CSBS TEAM-G09** · Academic Year 2024–25 · Anand institute of higher technology
